@@ -13,7 +13,7 @@ export default function About() {
       <div className='flex flex-col-reverse md:flex-row items-center gap-[50px]'>
         <div className='relative flex-1 flex flex-col gap-[1rem]'>
           <hr className='w-[30px] absolute top-3 left-[-40px] border-[1px] border-solid border-[whitesmoke]' />
-          <p> Hello there! I'm <b>MCC</b>, a passionate <b>Web Developer</b> with a love for all things creative and technical. I believe in the power of code to bring ideas to life and create meaningful digital experiences.</p>
+          <p> Hello there! I&apos;m <b>MCC</b>, a passionate <b>Web Developer</b> with a love for all things creative and technical. I believe in the power of code to bring ideas to life and create meaningful digital experiences.</p>
           <p><b>&#9679; My Skills Are:</b> HTML, CSS, Javascript, React, Github & Figma.</p>
           <div className='flex items-center gap-[1rem]'>
             <button className='max-w-max bg-btnColor rounded-xl p-[.8rem]  shadow-sm hover:text-[#fff] border-none hover:bg-[#4477CE] hover:shadow-slate-500 duration-[.5s]'>About Me</button>
