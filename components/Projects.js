@@ -25,7 +25,7 @@ export default function Projects() {
                     <p className='opacity-60'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloremque exercitationem itaque eveniet, corrupti, pariatur accusamus ipsum delectus architecto fuga at similique nisi omnis veritatis odio nesciunt consectetur ipsa, culpa assumenda!</p>
                 </div>
                 <div className='flex items-center gap-[1rem]'>
-                <button className='max-w-max bg-btnColor rounded-xl p-[.8rem]  shadow-sm hover:text-[#fff] border-none hover:bg-[#4477CE] hover:shadow-slate-500 duration-[.5s]'>Projects</button>
+                <button className='max-w-max bg-btnColor rounded-xl p-[.8rem]  shadow-sm hover:text-[#fff] border-none hover:bg-[#4477CE] hover:shadow-slate-500 duration-[.5s]'>View</button>
                 <ul className='text-[1.5rem]'><li ><a href="" target='__blank'><BsLinkedin/></a></li></ul>
                 </div>
             </div>
@@ -41,7 +41,7 @@ export default function Projects() {
                     <p className='opacity-60'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloremque exercitationem itaque eveniet, corrupti, pariatur accusamus ipsum delectus architecto fuga at similique nisi omnis veritatis odio nesciunt consectetur ipsa, culpa assumenda!</p>
                 </div>
                 <div className='flex items-center gap-[1rem]'>
-                <button className='max-w-max bg-btnColor rounded-xl p-[.8rem]  shadow-sm hover:text-[#fff] border-none hover:bg-[#4477CE] hover:shadow-slate-500 duration-[.5s]'>Projects</button>
+                <button className='max-w-max bg-btnColor rounded-xl p-[.8rem]  shadow-sm hover:text-[#fff] border-none hover:bg-[#4477CE] hover:shadow-slate-500 duration-[.5s]'>View</button>
                 <ul className='text-[1.5rem]'><li ><a href="" target='__blank'><BsLinkedin/></a></li></ul>
                 </div>
             </div>
@@ -57,7 +57,7 @@ export default function Projects() {
                     <p className='opacity-60'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloremque exercitationem itaque eveniet, corrupti, pariatur accusamus ipsum delectus architecto fuga at similique nisi omnis veritatis odio nesciunt consectetur ipsa, culpa assumenda!</p>
                 </div>
                 <div className='flex items-center gap-[1rem]'>
-                <button className='max-w-max bg-btnColor rounded-xl p-[.8rem]  shadow-sm hover:text-[#fff] border-none hover:bg-[#4477CE] hover:shadow-slate-500 duration-[.5s]'>Projects</button>
+                <button className='max-w-max bg-btnColor rounded-xl p-[.8rem]  shadow-sm hover:text-[#fff] border-none hover:bg-[#4477CE] hover:shadow-slate-500 duration-[.5s]'>View</button>
                 <ul className='text-[1.5rem]'><li ><a href="" target='__blank'><BsLinkedin/></a></li></ul>
                 </div>
             </div>
@@ -73,7 +73,7 @@ export default function Projects() {
                     <p className='opacity-60'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloremque exercitationem itaque eveniet, corrupti, pariatur accusamus ipsum delectus architecto fuga at similique nisi omnis veritatis odio nesciunt consectetur ipsa, culpa assumenda!</p>
                 </div>
                 <div className='flex items-center gap-[1rem]'>
-                <button className='max-w-max bg-btnColor rounded-xl p-[.8rem]  shadow-sm hover:text-[#fff] border-none hover:bg-[#4477CE] hover:shadow-slate-500 duration-[.5s]'>Projects</button>
+                <button className='max-w-max bg-btnColor rounded-xl p-[.8rem]  shadow-sm hover:text-[#fff] border-none hover:bg-[#4477CE] hover:shadow-slate-500 duration-[.5s]'>View</button>
                 <ul className='text-[1.5rem]'><li ><a href="" target='__blank'><BsLinkedin/></a></li></ul>
                 </div>
             </div>
@@ -89,7 +89,7 @@ export default function Projects() {
                     <p className='opacity-60'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloremque exercitationem itaque eveniet, corrupti, pariatur accusamus ipsum delectus architecto fuga at similique nisi omnis veritatis odio nesciunt consectetur ipsa, culpa assumenda!</p>
                 </div>
                 <div className='flex items-center gap-[1rem]'>
-                <button className='max-w-max bg-btnColor rounded-xl p-[.8rem]  shadow-sm hover:text-[#fff] border-none hover:bg-[#4477CE] hover:shadow-slate-500 duration-[.5s]'>Projects</button>
+                <button className='max-w-max bg-btnColor rounded-xl p-[.8rem]  shadow-sm hover:text-[#fff] border-none hover:bg-[#4477CE] hover:shadow-slate-500 duration-[.5s]'>View</button>
                 <ul className='text-[1.5rem]'><li ><a href="" target='__blank'><BsLinkedin/></a></li></ul>
                 </div>
             </div>
@@ -105,7 +105,7 @@ export default function Projects() {
                     <p className='opacity-60'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloremque exercitationem itaque eveniet, corrupti, pariatur accusamus ipsum delectus architecto fuga at similique nisi omnis veritatis odio nesciunt consectetur ipsa, culpa assumenda!</p>
                 </div>
                 <div className='flex items-center gap-[1rem]'>
-                <button className='max-w-max bg-btnColor rounded-xl p-[.8rem]  shadow-sm hover:text-[#fff] border-none hover:bg-[#4477CE] hover:shadow-slate-500 duration-[.5s]'>Projects</button>
+                <button className='max-w-max bg-btnColor rounded-xl p-[.8rem]  shadow-sm hover:text-[#fff] border-none hover:bg-[#4477CE] hover:shadow-slate-500 duration-[.5s]'>View</button>
                 <ul className='text-[1.5rem]'><li ><a href="" target='__blank'><BsLinkedin/></a></li></ul>
                 </div>
             </div>
