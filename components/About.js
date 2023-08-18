@@ -12,7 +12,7 @@ export default function About() {
       <h1 className={`text-center text-[32px] font-[700] ${inter.className}`}>/About</h1>
       <div className='flex flex-col-reverse md:flex-row-reverse items-center gap-[50px]'>
         <div className='relative flex-1 flex flex-col gap-[1rem]'>
-          <hr className='w-[25px] absolute top-3 left-[-10px] border-[1px] border-solid border-[whitesmoke]' />
+          <hr className='w-[25px] absolute top-3 left-[-30px] border-[1px] border-solid border-[whitesmoke]' />
           <p className='md:indent-0 indent-6'> Hello there! I&apos;m <b>MCC</b>, a passionate <b>Web Developer</b> with a love for all things creative and technical. I believe in the power of code to bring ideas to life and create meaningful digital experiences.</p>
           <p><b>&#9679; My Skills Are:</b> HTML, CSS, Javascript, React, Github & Figma.</p>
           <div className='flex items-center gap-[1rem]'>
