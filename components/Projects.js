@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ['latin'], weight: "700" })
 
 export default function Projects() {
   return (
-    <div id='projects'  className='snap-y snap-center h-[100%] flex flex-col max-w-screen-xl mx-auto px-[3rem] py-[10rem] gap-[50px]'>
+    <div id='projects'  className='snap-y snap-center h-[100%] flex flex-col max-w-screen-xl mx-auto px-[3rem] py-[10rem] gap-[50px] duration-[.9s] '>
         <h1  className={`text-center text-[32px] font-[700] ${inter.className}`}>/Projects</h1>
         <div className='md:grid grid-cols-3 grid-rows-2 flex flex-col items-center gap-[50px] '>
 

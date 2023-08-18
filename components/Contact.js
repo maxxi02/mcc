@@ -6,13 +6,13 @@ import { BsFacebook, BsGithub, BsLinkedin } from 'react-icons/bs'
 const inter = Inter({ subsets: ['latin'], weight: "700" })
 export default function Contact() {
   return (
-    <div id='contact' className='snap-y snap-center h-[100%] max-w-screen-xl mx-auto py-[10rem] flex flex-col items-center gap-[3rem]'>
+    <div id='contact' className='snap-y snap-center h-[100%] max-w-screen-xl mx-auto py-[10rem] flex flex-col items-center gap-[3rem] duration-[.9s] '>
         <h1  className={`text-center text-[32px] font-[700] ${inter.className}`}>/Contact</h1>
 
         <div className='flex-col flex items-center p-[1rem] gap-[50px] md:flex-row md:items-start'>
 
             <div className='flex-1 flex flex-col items-start gap-[1rem]'>
-                <h2 className='text-xl'>Contact Me <br /> </h2>
+                <h2 className='text-2xl  font-semibold'>Contact Me <br /> </h2>
                 <p>Send a message through <b>Email</b> or just want to say <b>Hi</b>? <br />Feel free to message me, you can also contact me through my <b>Social Medias</b></p>
                 <ul className='flex  justify-start gap-[1rem] text-[1.5rem]'>
                   <li><a href=""><BsFacebook/></a></li>
@@ -21,7 +21,7 @@ export default function Contact() {
                 </ul>
             </div>
             <div>
-            <h2 className='text-xl pb-[2rem]'>Send a message</h2>
+            <h2 className='text-2xl pb-[2rem] font-semibold'>Send a message</h2>
             <form className='flex-1 flex flex-col items-start gap-[1rem] p-[1rem] w-[100%] h-[100%] rounded-sm bg-[#161f32] shadow-teal-500 shadow-sm' action="">
               <div className='flex gap-[1rem] w-[100%]'>
                 <input className='w-[100%] p-[1rem] text-[#111] font-semibold'  type="text" placeholder='Name' />
