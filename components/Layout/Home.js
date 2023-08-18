@@ -15,7 +15,7 @@ export default function Home() {
 
 
   return (
-    <div id='home' className='snap-y  snap-center max-w-screen-xl mx-auto h-[100%] flex-col-reverse md:flex-row flex items-center md:gap-[50px] px-[1rem] py-[10rem] '>
+    <div id='home' className='snap-y  snap-center max-w-screen-xl mx-auto h-[100%] flex-col-reverse md:flex-row flex items-center md:gap-[50px] px-[1rem] py-[1rem]'>
 
       <div  className='flex flex-col items-start gap-[1rem]'>
         <h1 className={`${inter.className} whitespace-nowrap md:text-[80px] text-[50px] duration-[.9s]`}>Web Stuffs.</h1>
